@@ -1,3 +1,5 @@
+Forked from <https://github.com/davidstutz/mesh-voxelization>
+
 # Mesh Voxelization
 
 This is a parallel C++ implementation for efficiently voxelizing (watertight, triangular)
